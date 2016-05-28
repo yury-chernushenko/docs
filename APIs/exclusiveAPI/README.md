@@ -1,9 +1,7 @@
-## Redbull Content API
+## Redbull content API
 
-Entry point: [api.redbull.com](api.redbull.com)
+Entry point: [api.redbull.com](http://api.redbull.com)
 
-Credentials:
- 
+Credentials: 
 __Username:__ rbuser
-
 __Password:__ wdKZqnmG
