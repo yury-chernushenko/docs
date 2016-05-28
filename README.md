@@ -14,6 +14,3 @@ Find documentations that may help you create awesome stuff
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/historicBots.md">historic bots</a>
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/readBots.md">read about bots</a>
 * <a href="https://github.com/BotcampBerlin/docs/blob/master/APIs/getInspired.md">get inspired</a>
-
-Join the discussion on slack:
-https://botcamp-berlin.slack.com/?redir=%2Farchives%2Fgeneral
